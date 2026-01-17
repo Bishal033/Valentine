@@ -10,22 +10,22 @@ export default function Page() {
     setNoCount(noCount + 1);
   };
 
-  
+
 
   const getNoButtonText = () => {
     const phrases = [
       "No",
       "Are you sure?",
       "Really sure?",
-      "Think again!",
+      "Aur Soch lo!",
       "Last chance!",
       "Surely not?",
-      "You might regret this!",
-      "Give it another thought!",
+      "Sach mai No kya Tinkuli!",
+      "Ek aur baar soch lo!",
       "Are you absolutely certain?",
       "This could be a mistake!",
-      "Have a heart!",
-      "Don't be so cold!",
+      "Ro Dunga mai",
+      "Sach mai!",
       "Change of heart?",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
