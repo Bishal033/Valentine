@@ -43,7 +43,7 @@ export default function Page() {
       ) : (
         <>
           <img className="h-50" src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif" />
-          <h1 className="text-4xl my-4">Will you be my Valentine Tinkuli?</h1>
+          <h1 className="text-2xl sm:text-3xl md:text-4xl my-4 text-center px-4">Will you be my Valentine Tinkuli?</h1>
           <div>
             <button
               class ={`bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded mr-4`}
