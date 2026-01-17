@@ -8,4 +8,5 @@ export default defineConfig({
     React(),
      tailwindcss(),
   ],
+  base: process.env.VITE_BASE_PATH || '/Valentine',
 })
