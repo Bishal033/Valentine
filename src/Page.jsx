@@ -10,6 +10,8 @@ export default function Page() {
     setNoCount(noCount + 1);
   };
 
+  
+
   const getNoButtonText = () => {
     const phrases = [
       "No",
